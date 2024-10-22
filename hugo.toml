@@ -1,26 +1,31 @@
 baseURL = "https://example.com/"
 title = "Juicy's Recipes"
-author = "Your Name"
-copyright = "Your Name"
+author = "Justin 'Juice' Espiritu"
+copyright = "Justin 'Juice' Espiritu"
 paginate = 10
 languageCode = "en"
 theme = "tailwind"
 
+# SEO keywords and description for your site.
+keywords = "recipes, easy recipes, cook, cooking, easy, quick"
+subtitle = "Juicy's Food Blog"
+
 [markup]
   _merge = "deep"
 
-[giscus]
-  enabled = true
-  repo = "JuicyJuice1100/food-blog"
-  repoID = "R_kgDONERfcg"
-  category = "General"
-  categoryID = "DIC_kwDONERfcs4CjmMq"
-  mapping = "pathname"
-  strict = "0"
-  reactionsEnabled = "1"
-  emitMetadata = "0"
-  inputPosition = "bottom"
-  lang = "en"
+## My current info for giscus, currently not working will have to look into this
+# [giscus]
+#   enabled = true
+#   repo = "JuicyJuice1100/food-blog"
+#   repoID = "R_kgDONERfcg"
+#   category = "General"
+#   categoryID = "DIC_kwDONERfcs4CjmMq"
+#   mapping = "pathname"
+#   strict = "0"
+#   reactionsEnabled = "1"
+#   emitMetadata = "0"
+#   inputPosition = "bottom"
+#   lang = "en"
 
 [params]
   # dir name of your blog content (default is `content/posts`).
