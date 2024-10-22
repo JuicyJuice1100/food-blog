@@ -1,5 +1,5 @@
 baseURL = "https://example.com/"
-title = "Hugo Theme Tailwind Example Site"
+title = "Juicy's Recipes"
 author = "Your Name"
 copyright = "Your Name"
 paginate = 10
@@ -8,6 +8,19 @@ theme = "tailwind"
 
 [markup]
   _merge = "deep"
+
+[giscus]
+  enabled = true
+  repo = "JuicyJuice1100/food-blog"
+  repoID = "R_kgDONERfcg"
+  category = "General"
+  categoryID = "DIC_kwDONERfcs4CjmMq"
+  mapping = "pathname"
+  strict = "0"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "bottom"
+  lang = "en"
 
 [params]
   # dir name of your blog content (default is `content/posts`).
@@ -18,8 +31,10 @@ theme = "tailwind"
     logo = "logo.webp"
 
   [params.footer]
-    since = 2023
+    since = 2024
     poweredby = true
+
+  [params.search]
 
 [menu]
 
