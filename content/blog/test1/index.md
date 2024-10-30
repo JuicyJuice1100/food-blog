@@ -1,9 +1,9 @@
 +++
-date = '2024-10-30T14:18:04-05:00'
+date = '2024-10-30T15:43:09-05:00'
 draft = true
 author = "Hugo Authors"
-title = "Test Recipe 1"
-description = "Test Recipe"
+title = "Test Blog 1"
+description = "Test Blog"
 tags = [
     "test 1",
 ]
