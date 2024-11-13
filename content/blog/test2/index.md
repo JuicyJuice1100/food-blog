@@ -2,13 +2,16 @@
 date = '2024-10-30T14:18:04-05:00'
 draft = true
 author = "Hugo Authors"
-title = "Test Recipe 1"
+title = "Test Recipe 2"
 description = "Test Recipe"
 tags = [
-    "test 1",
+    "Breakfast",
+    "Simple",
+    "Healthy"
 ]
 categories = [
-    "test 1"
+    "Food",
+    "Cooking"
 ]
-series = ["Test Series"]
+series = ["Food Series"]
 +++

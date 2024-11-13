@@ -4,10 +4,14 @@ date = '2024-10-30T14:06:24-05:00'
 aliases = ["about-us", "contact"]
 +++
 ## Who Are You?
-My name is Justin, but most people call me Juice.  I am a software engineer who loves to cook, boulder, and travel.  
+My name is Justin, but most people call me Juice.  I am a software engineer who loves to cook, boulder, travel, and take on too many ambitious projects at the same time...
 
 ## What Is This?
-A personal blog where I can share recipes and personal experiences with cooking.  
+A place for me to organize and share my thoughts and progress.
 
 ## Why Build This?
-I wanted to start sharing cooking experiences and recipes that I have created or modified and share it with others.  I want to keep this site simple so I will only share the recipe.  None of that extra BS.  I may add more info and history with a recipe, but won't make you scroll through that to just get to a recipe.
+Originally, I wanted to start keeping track of my cooking journey and recipes that I have created or modified and have a place to share my progress.    
+
+But at the same time I also started my journey in learning Japanese.  So instead of making a food only blog I wanted to create a space where I can share my thoughts and share my journey(s) of my many at home projects.  
+
+My hope is that having a place to put my thoughts and keep track of my progress to help me progress and actually finish some of my projects.  

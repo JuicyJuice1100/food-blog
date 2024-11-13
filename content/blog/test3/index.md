@@ -2,15 +2,15 @@
 date = '2024-10-30T14:18:04-05:00'
 draft = true
 author = "Hugo Authors"
-title = "Test Recipe 1"
+title = "Test Japanese 1"
 description = "Test Recipe"
 tags = [
-    "Dinner",
-    "Simple"
+    "Kanji",
 ]
 categories = [
-    "Food",
-    "Baking"
+    "Japanese",
+    "Language",
+    "Practice"
 ]
-series = ["Food Series"]
+series = ["Learning Japanese"]
 +++

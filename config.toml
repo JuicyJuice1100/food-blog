@@ -24,22 +24,16 @@ theme = "tailwind"
 [menu]
 
   [[menu.main]]
-    identifier = "recipes"
-    name = "Recipes"
-    pageRef = "/recipes"
-    weight = 10
-
-  [[menu.main]]
     identifier = "blog"
     name = "Blog"
     pageRef = "/blog"
-    weight = 20
+    weight = 10
 
   [[menu.main]]
     identifier = "about"
     name = "About"
     pageRef = "/about"
-    weight = 30
+    weight = 20
 
 [taxonomies]
 category = "categories"
